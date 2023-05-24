@@ -50,7 +50,11 @@ Partial Class Form1
         Label13 = New Label()
         Panel3 = New Panel()
         Label28 = New Label()
+<<<<<<< HEAD
         search = New TextBox()
+=======
+        TextBox3 = New TextBox()
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         section = New ComboBox()
         year = New ComboBox()
         gend = New ComboBox()
@@ -95,12 +99,15 @@ Partial Class Form1
         Button14 = New Button()
         Label35 = New Label()
         DataGridView2 = New DataGridView()
+<<<<<<< HEAD
         Column13 = New DataGridViewTextBoxColumn()
         Column14 = New DataGridViewTextBoxColumn()
         Column15 = New DataGridViewTextBoxColumn()
         Column16 = New DataGridViewTextBoxColumn()
         Column12 = New DataGridViewTextBoxColumn()
         Column17 = New DataGridViewTextBoxColumn()
+=======
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Birth = New TextBox()
         Stat = New TextBox()
         Sec = New TextBox()
@@ -157,6 +164,15 @@ Partial Class Form1
         Label38 = New Label()
         Label37 = New Label()
         Label36 = New Label()
+<<<<<<< HEAD
+=======
+        Column13 = New DataGridViewTextBoxColumn()
+        Column14 = New DataGridViewTextBoxColumn()
+        Column15 = New DataGridViewTextBoxColumn()
+        Column16 = New DataGridViewTextBoxColumn()
+        Column12 = New DataGridViewTextBoxColumn()
+        Column17 = New DataGridViewTextBoxColumn()
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Panel1.SuspendLayout()
         Panel2.SuspendLayout()
         Panel5.SuspendLayout()
@@ -236,7 +252,11 @@ Partial Class Form1
         Button11.Cursor = Cursors.Hand
         Button11.FlatAppearance.MouseOverBackColor = Color.Red
         Button11.FlatStyle = FlatStyle.Flat
+<<<<<<< HEAD
         Button11.Font = New Font("Calibri", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Button11.Font = New Font("Calibri", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Button11.ForeColor = Color.DarkGoldenrod
         Button11.Location = New Point(12, 521)
         Button11.Name = "Button11"
@@ -335,7 +355,11 @@ Partial Class Form1
         Button7.BackColor = Color.FromArgb(CByte(255), CByte(255), CByte(128))
         Button7.Cursor = Cursors.Hand
         Button7.FlatAppearance.BorderSize = 0
+<<<<<<< HEAD
         Button7.Font = New Font("Segoe UI Semibold", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Button7.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Button7.Location = New Point(216, 343)
         Button7.Name = "Button7"
         Button7.Size = New Size(96, 30)
@@ -357,7 +381,11 @@ Partial Class Form1
         ' Label9
         ' 
         Label9.AutoSize = True
+<<<<<<< HEAD
         Label9.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label9.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label9.ForeColor = Color.DarkCyan
         Label9.Location = New Point(11, 40)
         Label9.Name = "Label9"
@@ -371,7 +399,11 @@ Partial Class Form1
         Button8.Cursor = Cursors.Hand
         Button8.FlatAppearance.BorderSize = 0
         Button8.FlatAppearance.MouseOverBackColor = Color.Maroon
+<<<<<<< HEAD
         Button8.Font = New Font("Segoe UI Semibold", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Button8.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Button8.Location = New Point(216, 379)
         Button8.Name = "Button8"
         Button8.Size = New Size(96, 30)
@@ -385,7 +417,11 @@ Partial Class Form1
         Button9.Cursor = Cursors.Hand
         Button9.FlatAppearance.BorderSize = 0
         Button9.FlatAppearance.MouseOverBackColor = Color.Teal
+<<<<<<< HEAD
         Button9.Font = New Font("Segoe UI Semibold", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Button9.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Button9.Location = New Point(114, 379)
         Button9.Name = "Button9"
         Button9.Size = New Size(96, 30)
@@ -399,7 +435,11 @@ Partial Class Form1
         Button10.Cursor = Cursors.Hand
         Button10.FlatAppearance.BorderSize = 0
         Button10.FlatAppearance.MouseOverBackColor = Color.Green
+<<<<<<< HEAD
         Button10.Font = New Font("Segoe UI Semibold", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Button10.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Button10.Location = New Point(12, 379)
         Button10.Name = "Button10"
         Button10.Size = New Size(96, 30)
@@ -410,7 +450,11 @@ Partial Class Form1
         ' Label10
         ' 
         Label10.AutoSize = True
+<<<<<<< HEAD
         Label10.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label10.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label10.ForeColor = Color.DarkCyan
         Label10.Location = New Point(13, 268)
         Label10.Name = "Label10"
@@ -430,7 +474,11 @@ Partial Class Form1
         ' Label11
         ' 
         Label11.AutoSize = True
+<<<<<<< HEAD
         Label11.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label11.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label11.ForeColor = Color.DarkCyan
         Label11.Location = New Point(12, 205)
         Label11.Name = "Label11"
@@ -441,7 +489,11 @@ Partial Class Form1
         ' Label12
         ' 
         Label12.AutoSize = True
+<<<<<<< HEAD
         Label12.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label12.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label12.ForeColor = Color.DarkCyan
         Label12.Location = New Point(12, 140)
         Label12.Name = "Label12"
@@ -452,7 +504,11 @@ Partial Class Form1
         ' Label13
         ' 
         Label13.AutoSize = True
+<<<<<<< HEAD
         Label13.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label13.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label13.ForeColor = Color.DarkCyan
         Label13.Location = New Point(12, 80)
         Label13.Name = "Label13"
@@ -464,7 +520,11 @@ Partial Class Form1
         ' 
         Panel3.BackColor = SystemColors.ControlLight
         Panel3.Controls.Add(Label28)
+<<<<<<< HEAD
         Panel3.Controls.Add(search)
+=======
+        Panel3.Controls.Add(TextBox3)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Panel3.Controls.Add(section)
         Panel3.Controls.Add(year)
         Panel3.Controls.Add(gend)
@@ -501,7 +561,11 @@ Partial Class Form1
         ' Label28
         ' 
         Label28.AutoSize = True
+<<<<<<< HEAD
         Label28.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label28.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label28.ForeColor = Color.DarkCyan
         Label28.ImageAlign = ContentAlignment.MiddleLeft
         Label28.Location = New Point(620, 267)
@@ -510,6 +574,7 @@ Partial Class Form1
         Label28.TabIndex = 35
         Label28.Text = "Search:"
         ' 
+<<<<<<< HEAD
         ' search
         ' 
         search.Anchor = AnchorStyles.Left
@@ -518,6 +583,16 @@ Partial Class Form1
         search.Name = "search"
         search.Size = New Size(226, 23)
         search.TabIndex = 34
+=======
+        ' TextBox3
+        ' 
+        TextBox3.Anchor = AnchorStyles.Left
+        TextBox3.Location = New Point(684, 265)
+        TextBox3.Multiline = True
+        TextBox3.Name = "TextBox3"
+        TextBox3.Size = New Size(226, 23)
+        TextBox3.TabIndex = 34
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         ' 
         ' section
         ' 
@@ -556,7 +631,11 @@ Partial Class Form1
         ' Label25
         ' 
         Label25.AutoSize = True
+<<<<<<< HEAD
         Label25.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label25.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label25.ForeColor = Color.DarkCyan
         Label25.ImageAlign = ContentAlignment.MiddleLeft
         Label25.Location = New Point(459, 225)
@@ -577,7 +656,11 @@ Partial Class Form1
         ' Label26
         ' 
         Label26.AutoSize = True
+<<<<<<< HEAD
         Label26.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label26.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label26.ForeColor = Color.DarkCyan
         Label26.ImageAlign = ContentAlignment.MiddleLeft
         Label26.Location = New Point(459, 188)
@@ -589,7 +672,11 @@ Partial Class Form1
         ' Label24
         ' 
         Label24.AutoSize = True
+<<<<<<< HEAD
         Label24.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label24.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label24.ForeColor = Color.DarkCyan
         Label24.ImageAlign = ContentAlignment.MiddleLeft
         Label24.Location = New Point(459, 149)
@@ -601,7 +688,11 @@ Partial Class Form1
         ' Label23
         ' 
         Label23.AutoSize = True
+<<<<<<< HEAD
         Label23.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label23.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label23.ForeColor = Color.DarkCyan
         Label23.Location = New Point(459, 109)
         Label23.Name = "Label23"
@@ -621,7 +712,11 @@ Partial Class Form1
         ' Label22
         ' 
         Label22.AutoSize = True
+<<<<<<< HEAD
         Label22.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label22.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label22.ForeColor = Color.DarkCyan
         Label22.Location = New Point(459, 75)
         Label22.Name = "Label22"
@@ -651,7 +746,11 @@ Partial Class Form1
         ' Label20
         ' 
         Label20.AutoSize = True
+<<<<<<< HEAD
         Label20.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label20.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label20.ForeColor = Color.DarkCyan
         Label20.Location = New Point(65, 227)
         Label20.Name = "Label20"
@@ -752,7 +851,11 @@ Partial Class Form1
         Button4.BackColor = Color.FromArgb(CByte(255), CByte(255), CByte(128))
         Button4.Cursor = Cursors.Hand
         Button4.FlatAppearance.BorderSize = 0
+<<<<<<< HEAD
         Button4.Font = New Font("Segoe UI Semibold", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Button4.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Button4.Location = New Point(803, 217)
         Button4.Name = "Button4"
         Button4.Size = New Size(96, 30)
@@ -774,7 +877,11 @@ Partial Class Form1
         ' Label7
         ' 
         Label7.AutoSize = True
+<<<<<<< HEAD
         Label7.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label7.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label7.ForeColor = Color.DarkCyan
         Label7.Location = New Point(65, 71)
         Label7.Name = "Label7"
@@ -788,7 +895,11 @@ Partial Class Form1
         Button3.Cursor = Cursors.Hand
         Button3.FlatAppearance.BorderSize = 0
         Button3.FlatAppearance.MouseOverBackColor = Color.Maroon
+<<<<<<< HEAD
         Button3.Font = New Font("Segoe UI Semibold", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Button3.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Button3.Location = New Point(803, 135)
         Button3.Name = "Button3"
         Button3.Size = New Size(96, 30)
@@ -802,7 +913,11 @@ Partial Class Form1
         Button2.Cursor = Cursors.Hand
         Button2.FlatAppearance.BorderSize = 0
         Button2.FlatAppearance.MouseOverBackColor = Color.Teal
+<<<<<<< HEAD
         Button2.Font = New Font("Segoe UI Semibold", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Button2.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Button2.Location = New Point(803, 99)
         Button2.Name = "Button2"
         Button2.Size = New Size(96, 30)
@@ -816,7 +931,11 @@ Partial Class Form1
         Button1.Cursor = Cursors.Hand
         Button1.FlatAppearance.BorderSize = 0
         Button1.FlatAppearance.MouseOverBackColor = Color.Green
+<<<<<<< HEAD
         Button1.Font = New Font("Segoe UI Semibold", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Button1.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Button1.Location = New Point(803, 63)
         Button1.Name = "Button1"
         Button1.Size = New Size(96, 30)
@@ -827,7 +946,11 @@ Partial Class Form1
         ' Label5
         ' 
         Label5.AutoSize = True
+<<<<<<< HEAD
         Label5.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label5.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label5.ForeColor = Color.DarkCyan
         Label5.Location = New Point(171, 72)
         Label5.Name = "Label5"
@@ -865,7 +988,11 @@ Partial Class Form1
         ' Label4
         ' 
         Label4.AutoSize = True
+<<<<<<< HEAD
         Label4.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label4.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label4.ForeColor = Color.DarkCyan
         Label4.Location = New Point(64, 190)
         Label4.Name = "Label4"
@@ -876,7 +1003,11 @@ Partial Class Form1
         ' Label3
         ' 
         Label3.AutoSize = True
+<<<<<<< HEAD
         Label3.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label3.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label3.ForeColor = Color.DarkCyan
         Label3.Location = New Point(63, 148)
         Label3.Name = "Label3"
@@ -887,7 +1018,11 @@ Partial Class Form1
         ' Label6
         ' 
         Label6.AutoSize = True
+<<<<<<< HEAD
         Label6.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label6.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label6.ForeColor = Color.DarkCyan
         Label6.Location = New Point(64, 110)
         Label6.Name = "Label6"
@@ -984,7 +1119,11 @@ Partial Class Form1
         DataGridView2.Cursor = Cursors.Hand
         DataGridViewCellStyle5.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle5.BackColor = SystemColors.Window
+<<<<<<< HEAD
         DataGridViewCellStyle5.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+=======
+        DataGridViewCellStyle5.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         DataGridViewCellStyle5.ForeColor = SystemColors.ControlText
         DataGridViewCellStyle5.SelectionBackColor = SystemColors.InactiveCaption
         DataGridViewCellStyle5.SelectionForeColor = SystemColors.HighlightText
@@ -996,7 +1135,11 @@ Partial Class Form1
         DataGridView2.Name = "DataGridView2"
         DataGridViewCellStyle6.Alignment = DataGridViewContentAlignment.MiddleLeft
         DataGridViewCellStyle6.BackColor = SystemColors.Control
+<<<<<<< HEAD
         DataGridViewCellStyle6.Font = New Font("Segoe UI", 9.0F, FontStyle.Regular, GraphicsUnit.Point)
+=======
+        DataGridViewCellStyle6.Font = New Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         DataGridViewCellStyle6.ForeColor = SystemColors.WindowText
         DataGridViewCellStyle6.SelectionBackColor = Color.Honeydew
         DataGridViewCellStyle6.SelectionForeColor = SystemColors.HighlightText
@@ -1006,6 +1149,7 @@ Partial Class Form1
         DataGridView2.Size = New Size(898, 206)
         DataGridView2.TabIndex = 39
         ' 
+<<<<<<< HEAD
         ' Column13
         ' 
         Column13.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells
@@ -1048,6 +1192,8 @@ Partial Class Form1
         Column17.Name = "Column17"
         Column17.Width = 82
         ' 
+=======
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         ' Birth
         ' 
         Birth.Enabled = False
@@ -1091,7 +1237,11 @@ Partial Class Form1
         ' Label34
         ' 
         Label34.AutoSize = True
+<<<<<<< HEAD
         Label34.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label34.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label34.ForeColor = SystemColors.ButtonHighlight
         Label34.Location = New Point(491, 187)
         Label34.Name = "Label34"
@@ -1103,7 +1253,11 @@ Partial Class Form1
         ' Label30
         ' 
         Label30.AutoSize = True
+<<<<<<< HEAD
         Label30.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label30.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label30.ForeColor = SystemColors.ButtonHighlight
         Label30.Location = New Point(491, 222)
         Label30.Name = "Label30"
@@ -1115,7 +1269,11 @@ Partial Class Form1
         ' Label31
         ' 
         Label31.AutoSize = True
+<<<<<<< HEAD
         Label31.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label31.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label31.ForeColor = SystemColors.ButtonHighlight
         Label31.Location = New Point(491, 147)
         Label31.Name = "Label31"
@@ -1127,7 +1285,11 @@ Partial Class Form1
         ' Label32
         ' 
         Label32.AutoSize = True
+<<<<<<< HEAD
         Label32.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label32.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label32.ForeColor = SystemColors.ButtonHighlight
         Label32.Location = New Point(491, 111)
         Label32.Name = "Label32"
@@ -1139,7 +1301,11 @@ Partial Class Form1
         ' Label33
         ' 
         Label33.AutoSize = True
+<<<<<<< HEAD
         Label33.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label33.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label33.ForeColor = SystemColors.ButtonHighlight
         Label33.Location = New Point(491, 74)
         Label33.Name = "Label33"
@@ -1191,7 +1357,11 @@ Partial Class Form1
         ' Label27
         ' 
         Label27.AutoSize = True
+<<<<<<< HEAD
         Label27.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label27.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label27.ForeColor = SystemColors.ButtonHighlight
         Label27.Location = New Point(26, 220)
         Label27.Name = "Label27"
@@ -1202,7 +1372,11 @@ Partial Class Form1
         ' 
         ' Label18
         ' 
+<<<<<<< HEAD
         Label18.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label18.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label18.ForeColor = SystemColors.ButtonHighlight
         Label18.Location = New Point(249, 75)
         Label18.Name = "Label18"
@@ -1214,7 +1388,11 @@ Partial Class Form1
         ' Label17
         ' 
         Label17.AutoSize = True
+<<<<<<< HEAD
         Label17.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label17.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label17.ForeColor = SystemColors.ButtonHighlight
         Label17.Location = New Point(26, 185)
         Label17.Name = "Label17"
@@ -1226,7 +1404,11 @@ Partial Class Form1
         ' Label16
         ' 
         Label16.AutoSize = True
+<<<<<<< HEAD
         Label16.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label16.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label16.ForeColor = SystemColors.ButtonHighlight
         Label16.Location = New Point(26, 149)
         Label16.Name = "Label16"
@@ -1238,7 +1420,11 @@ Partial Class Form1
         ' Label15
         ' 
         Label15.AutoSize = True
+<<<<<<< HEAD
         Label15.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label15.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label15.ForeColor = SystemColors.ButtonHighlight
         Label15.Location = New Point(26, 114)
         Label15.Name = "Label15"
@@ -1250,7 +1436,11 @@ Partial Class Form1
         ' Label14
         ' 
         Label14.AutoSize = True
+<<<<<<< HEAD
         Label14.Font = New Font("Arial", 12.0F, FontStyle.Bold, GraphicsUnit.Point)
+=======
+        Label14.Font = New Font("Arial", 12F, FontStyle.Bold, GraphicsUnit.Point)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Label14.ForeColor = SystemColors.ButtonHighlight
         Label14.Location = New Point(26, 75)
         Label14.Name = "Label14"
@@ -1614,18 +1804,73 @@ Partial Class Form1
         Label36.TabIndex = 0
         Label36.Text = "ACADEMIC YEAR:"
         ' 
+<<<<<<< HEAD
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+=======
+        ' Column13
+        ' 
+        Column13.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells
+        Column13.HeaderText = "CLASS NO."
+        Column13.Name = "Column13"
+        Column13.Width = 90
+        ' 
+        ' Column14
+        ' 
+        Column14.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells
+        Column14.HeaderText = "SUBJECT CODE"
+        Column14.Name = "Column14"
+        Column14.Width = 111
+        ' 
+        ' Column15
+        ' 
+        Column15.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells
+        Column15.HeaderText = "SUBJECT TITLE"
+        Column15.Name = "Column15"
+        Column15.Width = 107
+        ' 
+        ' Column16
+        ' 
+        Column16.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells
+        Column16.HeaderText = "TIME"
+        Column16.Name = "Column16"
+        Column16.Width = 58
+        ' 
+        ' Column12
+        ' 
+        Column12.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells
+        Column12.HeaderText = "DAY"
+        Column12.Name = "Column12"
+        Column12.Width = 54
+        ' 
+        ' Column17
+        ' 
+        Column17.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells
+        Column17.HeaderText = "TEACHER"
+        Column17.Name = "Column17"
+        Column17.Width = 82
+        ' 
+        ' Form1
+        ' 
+        AutoScaleDimensions = New SizeF(7F, 15F)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         AutoScaleMode = AutoScaleMode.Font
         AutoSize = True
         ClientSize = New Size(1125, 566)
         Controls.Add(Panel2)
         Controls.Add(Panel1)
+<<<<<<< HEAD
         Controls.Add(Panel3)
         Controls.Add(Panel7)
         Controls.Add(Panel9)
         Controls.Add(Panel6)
+=======
+        Controls.Add(Panel9)
+        Controls.Add(Panel6)
+        Controls.Add(Panel3)
+        Controls.Add(Panel7)
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
         Name = "Form1"
         StartPosition = FormStartPosition.CenterScreen
         Text = "Form1"
@@ -1710,7 +1955,11 @@ Partial Class Form1
     Friend WithEvents section As ComboBox
     Friend WithEvents year As ComboBox
     Friend WithEvents Label28 As Label
+<<<<<<< HEAD
     Friend WithEvents search As TextBox
+=======
+    Friend WithEvents TextBox3 As TextBox
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
     Friend WithEvents Button13 As Button
     Friend WithEvents Panel4 As Panel
     Friend WithEvents count As Label

@@ -330,6 +330,7 @@ Public Class Form1
         Panel3.Hide()
     End Sub
 
+<<<<<<< HEAD
     Private Sub TextBox3_TextChanged(sender As Object, e As EventArgs) Handles search.TextChanged
         DataGridView1.Rows.Clear()
 
@@ -349,4 +350,13 @@ Public Class Form1
         End Try
     End Sub
 
+=======
+    Private Sub TextBox3_TextChanged(sender As Object, e As EventArgs) Handles TextBox3.TextChanged
+
+    End Sub
+
+    Private Sub DataGridView2_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles DataGridView2.CellContentClick
+
+    End Sub
+>>>>>>> 85587a0fb1db1c9130bd7322d552955d37f4379a
 End Class
